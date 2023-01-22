@@ -1,0 +1,183 @@
+body{
+   margin: 0px;
+   font-family: 'Alegreya Sans', sans-serif;
+   line-height: 1.86em;
+   color:black;
+}
+.contenar
+{
+    width: 90%;
+    margin:auto;
+}
+.clr{
+    clear: both;
+}
+.Claa-float{
+    float: left;
+    width: 50%;
+    height: 500px;
+    margin: 100px 0px;
+}
+.Header-color{
+    background-image: url(../images/drew-coffman-1872.jpg);
+    background-size: cover;
+    background-position: center center;
+    height: 100vh;
+    margin: 0px;
+    overflow: auto;
+}
+.Header{
+    /* background-color: tan; */
+    /* float: left; */
+    width: 100%;
+    margin-top: 200px;
+    text-align: center;
+    color: #ffffff;
+}
+.Header > p{
+    font-size: 22px;
+}
+.Header > h1{
+    font-size: 76px;
+}
+.Header-Button{
+    background: #8e7754;
+    width: 100px;
+    height: 50px;
+    border: none;
+    color: #ffffff;
+}
+.Header-Button-Two{
+    background: none;
+    width: 100px;
+    height: 50px;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+}
+.About-Color{
+    background-color: transparent;
+}
+.About-Left-image{
+    width: 90%;
+    height: 90%;
+    margin: 20px auto;
+}
+.About-image{
+    width: 100%;
+    height: 100%;
+}
+.About-Details{
+    width: 80%;
+    height: 85%;
+    margin: 50px auto;
+}
+.About-Details-ul{
+    margin-top: 40px;
+    list-style: none;
+}
+.About-Details-li{
+    padding: 15px 0px;
+}
+.About-Details-li-img{
+    height: 30px;
+    width: 30px;
+}
+.Location-Color{
+    background-color: #f1f1f1;
+}
+.Location-left-Center{
+    margin-top: 150px;
+}
+.Baking-Color{
+    background-color: transparent;
+}
+.Baking{
+    float: left;
+    width: 100%;
+    margin: 20px 0px;
+    text-align: center;
+}
+.Baking-Details{
+    float: left;
+    margin: 10px 20px;
+    width: 30%;
+}
+.Baking-Details > img{
+width: 100%;
+}
+.Information-Color{
+    background-color: #f1f1f1;
+}
+.Footer-Color{
+    background-color: #403d38;
+    color: #969696;
+}
+.Footer-Divs{
+    float: left;
+    width: 25%;
+    margin: 10px auto;
+}
+.Footer-Divs > ul > li > a{
+    color: #969696;
+    text-decoration: none; 
+}
+.Footer-Divs-Arrow > li{
+    list-style-image:url("../images/icon/Arrow-Right-10.png");
+    padding: 10px 0px;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+.Footer-Divs-placeholder{
+    list-style-image:url("../images/icon/placeholder.png");
+}
+.Footer-Divs-Telephone{
+    list-style-image:url("../images/icon/telephone.png");
+}
+.Footer-Divs-Email{
+    list-style-image:url("../images/icon/email.png");
+}
+.Footer-Divs-Globe{
+    list-style-image:url("../images/icon/globe.png");
+}
+.Footer-Divs-imgae{
+    background-image: url(../images/contact-details-map.png);
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.Footer-Divs-imgae > ul > li{
+    padding: 10px 0px;
+    border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+.List-Footer{
+    background-color: #353330;
+    color: #969696;
+}
+.List-Footer-Div{
+    float: left;
+    width: 100%;
+    margin: 50px auto; 
+}
+.List-Footer-Divs{
+    float: left;
+    width: 100%;
+    margin: 5px auto;
+    text-align: center;
+}
+.List-Footer-Divs > ul > li{
+    float: left;
+}
+.List-Footer-Divs-facebook{
+    list-style-image: url(../images/icon/facebook.png);
+    margin-left: 500px;
+}
+.List-Footer-Divs-Gmail{
+    list-style-image: url(../images/icon/gmail.png);
+    margin-left: 60px;
+}
+.List-Footer-Divs-Linkedin{
+    list-style-image: url(../images/icon/linkedin.png);
+    margin-left: 60px;
+}
+.List-Footer-Divs-Twitter{
+    list-style-image: url(../images/icon/twitter.png);
+    margin-left: 60px;
+}
